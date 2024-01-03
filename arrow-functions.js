@@ -41,7 +41,7 @@ const returnMultipleLines = () => (
 console.log(returnMultipleLines());
 
 
-// When the string "english" is passed into the function, it should tell your the average score.
+// When the string "english" is passed into the function, it should show the average score.
 
 let students = [
     {
